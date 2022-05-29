@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project USCI-SPI-I2C-EX1 ****
+
+"C:\\ti\\ccs920\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+gmake[1]: 'USCI-SPI-I2C-EX1.out' is up to date.
+
+**** Build Finished ****

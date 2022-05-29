@@ -1,0 +1,350 @@
+[
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0Mri6iZFoZZcU&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/HID (Human Interface Devices) Examples&removeoffline=true",
+    "_id": "W0Mri6iZFoZZcU",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0Mri6iZFoZZcU?extname=.projectspec",
+    "linkType": "local",
+    "name": "H0_SimpleSend",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "H0_SimpleSend",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/HID%20(Human%20Interface%20Devices)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0Mri6iZFoZZcU",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0M1xKM9uRJYFg&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/HID (Human Interface Devices) Examples&removeoffline=true",
+    "_id": "W0M1xKM9uRJYFg",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0M1xKM9uRJYFg?extname=.projectspec",
+    "linkType": "local",
+    "name": "H10_ReceiveData_EncryptDecrypt",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "H10_ReceiveData_EncryptDecrypt",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/HID%20(Human%20Interface%20Devices)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0M1xKM9uRJYFg",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0MimIeXkKxImc&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/HID (Human Interface Devices) Examples&removeoffline=true",
+    "_id": "W0MimIeXkKxImc",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0MimIeXkKxImc?extname=.projectspec",
+    "linkType": "local",
+    "name": "H11_LedOnOff_EncryptDecrypt",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "H11_LedOnOff_EncryptDecrypt",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/HID%20(Human%20Interface%20Devices)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0MimIeXkKxImc",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0MQsBbDR-zdnw&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/HID (Human Interface Devices) Examples&removeoffline=true",
+    "_id": "W0MQsBbDR-zdnw",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0MQsBbDR-zdnw?extname=.projectspec",
+    "linkType": "local",
+    "name": "H1_LedOnOff",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "H1_LedOnOff",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/HID%20(Human%20Interface%20Devices)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0MQsBbDR-zdnw",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0MnCVexZSRoDY&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/HID (Human Interface Devices) Examples&removeoffline=true",
+    "_id": "W0MnCVexZSRoDY",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0MnCVexZSRoDY?extname=.projectspec",
+    "linkType": "local",
+    "name": "H2_ReceiveData",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "H2_ReceiveData",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/HID%20(Human%20Interface%20Devices)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0MnCVexZSRoDY",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0MUH6bV-aJIMU&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/HID (Human Interface Devices) Examples&removeoffline=true",
+    "_id": "W0MUH6bV-aJIMU",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0MUH6bV-aJIMU?extname=.projectspec",
+    "linkType": "local",
+    "name": "H3_EchoToHost",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "H3_EchoToHost",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/HID%20(Human%20Interface%20Devices)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0MUH6bV-aJIMU",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0MBFN-ywlzmo4&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/HID (Human Interface Devices) Examples&removeoffline=true",
+    "_id": "W0MBFN-ywlzmo4",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0MBFN-ywlzmo4?extname=.projectspec",
+    "linkType": "local",
+    "name": "H4_PacketProtocol",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "H4_PacketProtocol",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/HID%20(Human%20Interface%20Devices)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0MBFN-ywlzmo4",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0MwOdRYYzyirU&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/HID (Human Interface Devices) Examples&removeoffline=true",
+    "_id": "W0MwOdRYYzyirU",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0MwOdRYYzyirU?extname=.projectspec",
+    "linkType": "local",
+    "name": "H5_SendDataWaitTillDone",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "H5_SendDataWaitTillDone",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/HID%20(Human%20Interface%20Devices)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0MwOdRYYzyirU",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0M_EsK8sZZn2E&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/HID (Human Interface Devices) Examples&removeoffline=true",
+    "_id": "W0M_EsK8sZZn2E",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0M_EsK8sZZn2E?extname=.projectspec",
+    "linkType": "local",
+    "name": "H6_SendDataBackground",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "H6_SendDataBackground",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/HID%20(Human%20Interface%20Devices)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0M_EsK8sZZn2E",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0Mef70_O55Ig8&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/HID (Human Interface Devices) Examples&removeoffline=true",
+    "_id": "W0Mef70_O55Ig8",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0Mef70_O55Ig8?extname=.projectspec",
+    "linkType": "local",
+    "name": "H7_Mouse",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "H7_Mouse",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/HID%20(Human%20Interface%20Devices)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0Mef70_O55Ig8",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0M4GOT3WdtqeM&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/HID (Human Interface Devices) Examples&removeoffline=true",
+    "_id": "W0M4GOT3WdtqeM",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0M4GOT3WdtqeM?extname=.projectspec",
+    "linkType": "local",
+    "name": "H8_Keyboard",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "H8_Keyboard",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/HID%20(Human%20Interface%20Devices)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0M4GOT3WdtqeM",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0Mx9qabzQnkjc&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/HID (Human Interface Devices) Examples&removeoffline=true",
+    "_id": "W0Mx9qabzQnkjc",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0Mx9qabzQnkjc?extname=.projectspec",
+    "linkType": "local",
+    "name": "H9_Remote_Wakeup",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "H9_Remote_Wakeup",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/HID%20(Human%20Interface%20Devices)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0Mx9qabzQnkjc",
+    "packageOrder": 277
+  }
+]

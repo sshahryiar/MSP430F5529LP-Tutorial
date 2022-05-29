@@ -1,0 +1,9 @@
+
+**** Build of configuration Debug for project USB HID ****
+
+"C:\\ti\\ccs920\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+gmake[1]: 'USB HID.out' is up to date.
+gmake[1]: Nothing to be done for 'secondary-outputs'.
+
+**** Build Finished ****

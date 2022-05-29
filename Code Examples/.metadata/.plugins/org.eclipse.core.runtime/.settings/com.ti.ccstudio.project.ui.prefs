@@ -1,0 +1,4 @@
+CODEGEN_VERSION=19.6.0.STS
+ISA_FAMILY=MSP430
+ProjectCreationSettingsSelector.EXPANDED_AREA=CCS.TEMPLATES
+eclipse.preferences.version=1

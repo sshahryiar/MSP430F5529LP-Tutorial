@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project ref_ex1_ADC12Ctl ****
+
+"C:\\ti\\ccs910\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+gmake[1]: 'ref_ex1_ADC12Ctl.out' is up to date.
+
+**** Build Finished ****

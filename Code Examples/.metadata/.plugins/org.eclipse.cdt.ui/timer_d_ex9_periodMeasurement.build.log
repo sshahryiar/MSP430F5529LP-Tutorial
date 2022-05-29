@@ -1,0 +1,223 @@
+
+**** Build of configuration Debug for project timer_d_ex9_periodMeasurement ****
+
+"C:\\ti\\ccs910\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/adc12_a.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/adc12_a.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/adc12_a.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/adc12_a.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/aes.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/aes.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/aes.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/aes.c"
+ 
+Building file: "../timer_d_ex9_periodMeasurement.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="timer_d_ex9_periodMeasurement.d_raw"  "../timer_d_ex9_periodMeasurement.c"
+Finished building: "../timer_d_ex9_periodMeasurement.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/adc10_a.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/adc10_a.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/adc10_a.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/adc10_a.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/battbak.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/battbak.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/battbak.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/battbak.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/ctsd16.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/ctsd16.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/ctsd16.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/ctsd16.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/crc.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/crc.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/crc.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/crc.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/comp_b.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/comp_b.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/comp_b.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/comp_b.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/dac12_a.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/dac12_a.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/dac12_a.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/dac12_a.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/eusci_a_spi.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/eusci_a_spi.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/eusci_a_spi.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/eusci_a_spi.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/dma.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/dma.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/dma.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/dma.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/eusci_a_uart.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/eusci_a_uart.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/eusci_a_uart.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/eusci_a_uart.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/eusci_b_i2c.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/eusci_b_i2c.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/eusci_b_i2c.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/eusci_b_i2c.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/eusci_b_spi.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/eusci_b_spi.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/eusci_b_spi.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/eusci_b_spi.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/flashctl.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/flashctl.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/flashctl.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/flashctl.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/gpio.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/gpio.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/gpio.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/gpio.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/lcd_b.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/lcd_b.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/lcd_b.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/lcd_b.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/lcd_c.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/lcd_c.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/lcd_c.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/lcd_c.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/ldopwr.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/ldopwr.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/ldopwr.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/ldopwr.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/mpy32.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/mpy32.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/mpy32.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/mpy32.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/oa.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/oa.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/oa.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/oa.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/pmap.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/pmap.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/pmap.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/pmap.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/ram.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/ram.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/ram.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/ram.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/pmm.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/pmm.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/pmm.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/pmm.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/ref.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/ref.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/ref.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/ref.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/rtc_a.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/rtc_a.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/rtc_a.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/rtc_a.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/rtc_b.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/rtc_b.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/rtc_b.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/rtc_b.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/rtc_c.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/rtc_c.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/rtc_c.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/rtc_c.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/sd24_b.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/sd24_b.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/sd24_b.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/sd24_b.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/sfr.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/sfr.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/sfr.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/sfr.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/sysctl.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/sysctl.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/sysctl.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/sysctl.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/timer_b.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/timer_b.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/timer_b.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/timer_b.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/tec.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/tec.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/tec.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/tec.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/timer_a.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/timer_a.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/timer_a.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/timer_a.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/tlv.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/tlv.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/tlv.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/tlv.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/usci_a_spi.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/usci_a_spi.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/usci_a_spi.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/usci_a_spi.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/timer_d.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/timer_d.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/timer_d.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/timer_d.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/ucs.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/ucs.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/ucs.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/ucs.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/usci_a_uart.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/usci_a_uart.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/usci_a_uart.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/usci_a_uart.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/usci_b_spi.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/usci_b_spi.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/usci_b_spi.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/usci_b_spi.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/wdt_a.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/wdt_a.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/wdt_a.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/wdt_a.c"
+ 
+Building file: "../driverlib/MSP430F5xx_6xx/usci_b_i2c.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --include_path="C:/ti/ccs910/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/timer_d_ex9_periodMeasurement/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="driverlib/MSP430F5xx_6xx/usci_b_i2c.d_raw" --obj_directory="driverlib/MSP430F5xx_6xx"  "../driverlib/MSP430F5xx_6xx/usci_b_i2c.c"
+Finished building: "../driverlib/MSP430F5xx_6xx/usci_b_i2c.c"
+ 
+Building target: "timer_d_ex9_periodMeasurement.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/bin/cl430" -vmspx --use_hw_mpy=F5 --advice:power="none" --define=__MSP430F5172__ --define=DEPRECATED -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU40 -z -m"timer_d_ex9_periodMeasurement.map" --heap_size=80 --stack_size=80 -i"C:/ti/ccs910/ccs/ccs_base/msp430/include" -i"C:/ti/ccs910/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/lib" -i"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-msp430_18.12.2.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="timer_d_ex9_periodMeasurement_linkInfo.xml" --use_hw_mpy=F5 --rom_model -o "timer_d_ex9_periodMeasurement.out" "./timer_d_ex9_periodMeasurement.obj" "./driverlib/MSP430F5xx_6xx/adc10_a.obj" "./driverlib/MSP430F5xx_6xx/adc12_a.obj" "./driverlib/MSP430F5xx_6xx/aes.obj" "./driverlib/MSP430F5xx_6xx/battbak.obj" "./driverlib/MSP430F5xx_6xx/comp_b.obj" "./driverlib/MSP430F5xx_6xx/crc.obj" "./driverlib/MSP430F5xx_6xx/ctsd16.obj" "./driverlib/MSP430F5xx_6xx/dac12_a.obj" "./driverlib/MSP430F5xx_6xx/dma.obj" "./driverlib/MSP430F5xx_6xx/eusci_a_spi.obj" "./driverlib/MSP430F5xx_6xx/eusci_a_uart.obj" "./driverlib/MSP430F5xx_6xx/eusci_b_i2c.obj" "./driverlib/MSP430F5xx_6xx/eusci_b_spi.obj" "./driverlib/MSP430F5xx_6xx/flashctl.obj" "./driverlib/MSP430F5xx_6xx/gpio.obj" "./driverlib/MSP430F5xx_6xx/lcd_b.obj" "./driverlib/MSP430F5xx_6xx/lcd_c.obj" "./driverlib/MSP430F5xx_6xx/ldopwr.obj" "./driverlib/MSP430F5xx_6xx/mpy32.obj" "./driverlib/MSP430F5xx_6xx/oa.obj" "./driverlib/MSP430F5xx_6xx/pmap.obj" "./driverlib/MSP430F5xx_6xx/pmm.obj" "./driverlib/MSP430F5xx_6xx/ram.obj" "./driverlib/MSP430F5xx_6xx/ref.obj" "./driverlib/MSP430F5xx_6xx/rtc_a.obj" "./driverlib/MSP430F5xx_6xx/rtc_b.obj" "./driverlib/MSP430F5xx_6xx/rtc_c.obj" "./driverlib/MSP430F5xx_6xx/sd24_b.obj" "./driverlib/MSP430F5xx_6xx/sfr.obj" "./driverlib/MSP430F5xx_6xx/sysctl.obj" "./driverlib/MSP430F5xx_6xx/tec.obj" "./driverlib/MSP430F5xx_6xx/timer_a.obj" "./driverlib/MSP430F5xx_6xx/timer_b.obj" "./driverlib/MSP430F5xx_6xx/timer_d.obj" "./driverlib/MSP430F5xx_6xx/tlv.obj" "./driverlib/MSP430F5xx_6xx/ucs.obj" "./driverlib/MSP430F5xx_6xx/usci_a_spi.obj" "./driverlib/MSP430F5xx_6xx/usci_a_uart.obj" "./driverlib/MSP430F5xx_6xx/usci_b_i2c.obj" "./driverlib/MSP430F5xx_6xx/usci_b_spi.obj" "./driverlib/MSP430F5xx_6xx/wdt_a.obj" "../lnk_msp430f5172.cmd"  -llibmath.a -llibc.a 
+<Linking>
+Finished building target: "timer_d_ex9_periodMeasurement.out"
+ 
+
+**** Build Finished ****

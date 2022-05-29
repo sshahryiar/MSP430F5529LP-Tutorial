@@ -1,0 +1,9 @@
+
+**** Build of configuration Debug for project OW-DHT11 ****
+
+"C:\\ti\\ccs920\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+gmake[1]: 'OW-DHT11.out' is up to date.
+gmake[1]: Nothing to be done for 'secondary-outputs'.
+
+**** Build Finished ****

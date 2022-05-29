@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.ti.ccstudio.project.ui.internal.preferences.CodegenToolsPreferencePage">
+		<item value="C:\ti\msp430ware_3_80_07_00\driverlib" key="ToolsPreferencePage.BROWSE_FILTER"/>
+	</section>
+	<section name="com.ti.common.project.ui.internal.preferences.ProductsPreferencePage">
+		<item value="C:\ti\TivaWare_C_Series-2.1.4.178\driverlib" key="ToolsPreferencePage.BROWSE_FILTER"/>
+	</section>
+</section>

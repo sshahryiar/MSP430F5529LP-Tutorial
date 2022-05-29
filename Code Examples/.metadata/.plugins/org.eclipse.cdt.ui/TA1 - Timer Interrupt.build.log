@@ -1,0 +1,9 @@
+
+**** Build of configuration Debug for project TA1 - Timer Interrupt ****
+
+"C:\\ti\\ccs920\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+gmake[1]: 'TA1 - Timer Interrupt.out' is up to date.
+gmake[1]: Nothing to be done for 'secondary-outputs'.
+
+**** Build Finished ****

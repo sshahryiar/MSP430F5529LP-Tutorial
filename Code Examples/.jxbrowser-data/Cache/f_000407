@@ -1,0 +1,205 @@
+[
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0MQ2QqgBiqCr0&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/CDC (Virtual COM Port) Examples&removeoffline=true",
+    "_id": "W0MQ2QqgBiqCr0",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0MQ2QqgBiqCr0?extname=.projectspec",
+    "linkType": "local",
+    "name": "C0_SimpleSend",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "C0_SimpleSend",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/CDC%20(Virtual%20COM%20Port)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0MQ2QqgBiqCr0",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0Myxe8sAk1Jmk&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/CDC (Virtual COM Port) Examples&removeoffline=true",
+    "_id": "W0Myxe8sAk1Jmk",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0Myxe8sAk1Jmk?extname=.projectspec",
+    "linkType": "local",
+    "name": "C1_LedOnOff",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "C1_LedOnOff",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/CDC%20(Virtual%20COM%20Port)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0Myxe8sAk1Jmk",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0Mr0zW5seJ8Ts&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/CDC (Virtual COM Port) Examples&removeoffline=true",
+    "_id": "W0Mr0zW5seJ8Ts",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0Mr0zW5seJ8Ts?extname=.projectspec",
+    "linkType": "local",
+    "name": "C2_ReceiveData",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "C2_ReceiveData",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/CDC%20(Virtual%20COM%20Port)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0Mr0zW5seJ8Ts",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0MGD9-r0uI2e0&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/CDC (Virtual COM Port) Examples&removeoffline=true",
+    "_id": "W0MGD9-r0uI2e0",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0MGD9-r0uI2e0?extname=.projectspec",
+    "linkType": "local",
+    "name": "C3_EchoToHost",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "C3_EchoToHost",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/CDC%20(Virtual%20COM%20Port)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0MGD9-r0uI2e0",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0MF_22Qy8av2A&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/CDC (Virtual COM Port) Examples&removeoffline=true",
+    "_id": "W0MF_22Qy8av2A",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0MF_22Qy8av2A?extname=.projectspec",
+    "linkType": "local",
+    "name": "C4_PacketProtocol",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "C4_PacketProtocol",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/CDC%20(Virtual%20COM%20Port)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0MF_22Qy8av2A",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0M71ZvXHHXv4M&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/CDC (Virtual COM Port) Examples&removeoffline=true",
+    "_id": "W0M71ZvXHHXv4M",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0M71ZvXHHXv4M?extname=.projectspec",
+    "linkType": "local",
+    "name": "C5_SendDataWaitTillDone",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "C5_SendDataWaitTillDone",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/CDC%20(Virtual%20COM%20Port)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0M71ZvXHHXv4M",
+    "packageOrder": 277
+  },
+  {
+    "downloadLink": "api/bundle?vid=msp430ware__3.80.07.00&download=true",
+    "makeofflineLink": "api/bundles?vids=msp430ware__3.80.07.00",
+    "removeofflineLink": "api/resources?id=W0MaoIxk2L7ibc&path=Software/MSP430Ware/Libraries/USB Developer's Package/Example Projects/CDC (Virtual COM Port) Examples&removeoffline=true",
+    "_id": "W0MaoIxk2L7ibc",
+    "_originalJsonFile": "msp430ware_3_80_07_00/.metadata/.tirex/content.tirex.json",
+    "devtools": [
+      "MSP-EXP430F5529LP",
+      "MSP-EXP430F5529"
+    ],
+    "link": "api/linkTo/W0MaoIxk2L7ibc?extname=.projectspec",
+    "linkType": "local",
+    "name": "C6_SendDataBackground",
+    "packageUId": "msp430ware__3.80.07.00",
+    "resourceType": "projectSpec",
+    "tags": [
+      "API",
+      "Descriptor Tool",
+      "Library",
+      "Software",
+      "USB",
+      "USB Package"
+    ],
+    "type": "resource",
+    "text": "C6_SendDataBackground",
+    "url": "/api/resources?path=Software/MSP430Ware/Libraries/USB%20Developer%27s%20Package/Example%20Projects/CDC%20(Virtual%20COM%20Port)%20Examples&package=com.ti.SIMPLELINK_CC13X0_SDK__::com.ti.SIMPLELINK_CC13X2_26X2_SDK__::com.ti.SIMPLELINK_CC13X2_SDK__::com.ti.SIMPLELINK_CC26X2_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK__::com.ti.SIMPLELINK_CC2652RB_BLE_SDK__::com.ti.SIMPLELINK_MSP432_SDK__::com.ti.SIMPLELINK_MSP432E4_SDK__::com.ti.SIMPLELINK_CC32XX_SDK__::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__::com.ti.AWS_CC32XX__::com.ti.AWS_MSP432E4__::com.ti.WATSON_MSP432E4__::com.ti.WATSON_CC32XX__::com.ti.SAIL__::com.ti.AZURE_CC32XX__::com.ti.AZURE_MSP432E4__::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__::com.ti.mmwave_industrial_toolbox__::com.ti.mmwave_automotive_toolbox__::c2000ware_software_package__::digital_power_c2000ware_sdk_software_package__::powerSUITE_software_package__::msp430ware__3.80.07.00::energia.core__::energia.tool.arm-none-eabi-gcc__::energia.tool.ino2cpp__::energia.boards.cc13xx__::energia.boards.cc3220emt__::energia.boards.msp432r__::sitara__::tm4c__2.1.4.178::tirtos_cc13xx_cc26xx__::tirtos_tivac__::tirtos_simplelink__::sysbios__::xdctools__",
+    "importProject": "api/importProject/W0MaoIxk2L7ibc",
+    "packageOrder": 277
+  }
+]

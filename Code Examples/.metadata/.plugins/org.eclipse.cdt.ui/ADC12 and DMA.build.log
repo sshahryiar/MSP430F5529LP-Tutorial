@@ -1,0 +1,9 @@
+
+**** Build of configuration Debug for project ADC12 and DMA ****
+
+"C:\\ti\\ccs920\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+gmake[1]: 'ADC12 and DMA.out' is up to date.
+gmake[1]: Nothing to be done for 'secondary-outputs'.
+
+**** Build Finished ****

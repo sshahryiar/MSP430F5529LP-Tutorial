@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project timer_d_ex10_dutyCycleMeasurementDual ****
+
+"C:\\ti\\ccs910\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+gmake[1]: 'timer_d_ex10_dutyCycleMeasurementDual.out' is up to date.
+
+**** Build Finished ****

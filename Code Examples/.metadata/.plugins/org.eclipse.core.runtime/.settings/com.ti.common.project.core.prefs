@@ -1,0 +1,4 @@
+BUILD_VERBOSITY_LEVEL=NORMAL
+com.ti.ccstudio.project.core.internal.tools.CodegenToolDiscoveryManager.INACTIVE_TOOL_DISCOVERY_PATH_ENTRIES=
+com.ti.common.project.core.products.ProductDiscoveryManager.INACTIVE_TOOL_DISCOVERY_PATH_ENTRIES=
+eclipse.preferences.version=1

@@ -1,0 +1,56 @@
+
+**** Build of configuration Debug for project Capacitive Touch - Single Button ****
+
+"C:\\ti\\ccs920\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+Building file: "../main.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-msp430_19.6.0.STS/bin/cl430" -vmspx --code_model=large --data_model=restricted --near_data=none --use_hw_mpy=F5 --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/Capacitive Touch - Single Button/My_Libraries" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/Capacitive Touch - Single Button/CAP_Touch_Library" --include_path="C:/ti/ccs920/ccs/ccs_base/msp430/include" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/Capacitive Touch - Single Button" --include_path="D:/Current Works/MSP430F5529/MSP430F5529LP_Examples/Capacitive Touch - Single Button/driverlib/MSP430F5xx_6xx" --include_path="C:/ti/ccs920/ccs/tools/compiler/ti-cgt-msp430_19.6.0.STS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 78: remark #1527-D: (ULP 2.1) Detected SW delay loop using __delay_cycles. Recommend using a timer module instead
+Finished building: "../main.c"
+ 
+Building target: "Capacitive Touch - Single Button.out"
+Invoking: MSP430 Linker
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-msp430_19.6.0.STS/bin/cl430" -vmspx --code_model=large --data_model=restricted --near_data=none --use_hw_mpy=F5 --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 -z -m"Capacitive Touch - Single Button.map" --heap_size=160 --stack_size=160 --cinit_hold_wdt=on -i"C:/ti/ccs920/ccs/ccs_base/msp430/include" -i"C:/ti/ccs920/ccs/ccs_base/msp430/lib/5xx_6xx_FRxx" -i"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-msp430_19.6.0.STS/lib" -i"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-msp430_19.6.0.STS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Capacitive Touch - Single Button_linkInfo.xml" --use_hw_mpy=F5 --rom_model -o "Capacitive Touch - Single Button.out" "./main.obj" "./CAP_Touch_Library/CTS_HAL.obj" "./CAP_Touch_Library/CTS_Layer.obj" "./CAP_Touch_Library/structure.obj" "./driverlib/MSP430F5xx_6xx/adc10_a.obj" "./driverlib/MSP430F5xx_6xx/adc12_a.obj" "./driverlib/MSP430F5xx_6xx/aes.obj" "./driverlib/MSP430F5xx_6xx/battbak.obj" "./driverlib/MSP430F5xx_6xx/comp_b.obj" "./driverlib/MSP430F5xx_6xx/crc.obj" "./driverlib/MSP430F5xx_6xx/ctsd16.obj" "./driverlib/MSP430F5xx_6xx/dac12_a.obj" "./driverlib/MSP430F5xx_6xx/dma.obj" "./driverlib/MSP430F5xx_6xx/eusci_a_spi.obj" "./driverlib/MSP430F5xx_6xx/eusci_a_uart.obj" "./driverlib/MSP430F5xx_6xx/eusci_b_i2c.obj" "./driverlib/MSP430F5xx_6xx/eusci_b_spi.obj" "./driverlib/MSP430F5xx_6xx/flashctl.obj" "./driverlib/MSP430F5xx_6xx/gpio.obj" "./driverlib/MSP430F5xx_6xx/lcd_b.obj" "./driverlib/MSP430F5xx_6xx/lcd_c.obj" "./driverlib/MSP430F5xx_6xx/ldopwr.obj" "./driverlib/MSP430F5xx_6xx/mpy32.obj" "./driverlib/MSP430F5xx_6xx/oa.obj" "./driverlib/MSP430F5xx_6xx/pmap.obj" "./driverlib/MSP430F5xx_6xx/pmm.obj" "./driverlib/MSP430F5xx_6xx/ram.obj" "./driverlib/MSP430F5xx_6xx/ref.obj" "./driverlib/MSP430F5xx_6xx/rtc_a.obj" "./driverlib/MSP430F5xx_6xx/rtc_b.obj" "./driverlib/MSP430F5xx_6xx/rtc_c.obj" "./driverlib/MSP430F5xx_6xx/sd24_b.obj" "./driverlib/MSP430F5xx_6xx/sfr.obj" "./driverlib/MSP430F5xx_6xx/sysctl.obj" "./driverlib/MSP430F5xx_6xx/tec.obj" "./driverlib/MSP430F5xx_6xx/timer_a.obj" "./driverlib/MSP430F5xx_6xx/timer_b.obj" "./driverlib/MSP430F5xx_6xx/timer_d.obj" "./driverlib/MSP430F5xx_6xx/tlv.obj" "./driverlib/MSP430F5xx_6xx/ucs.obj" "./driverlib/MSP430F5xx_6xx/usci_a_spi.obj" "./driverlib/MSP430F5xx_6xx/usci_a_uart.obj" "./driverlib/MSP430F5xx_6xx/usci_b_i2c.obj" "./driverlib/MSP430F5xx_6xx/usci_b_spi.obj" "./driverlib/MSP430F5xx_6xx/wdt_a.obj" "../lnk_msp430f5529.cmd"  -llibmath.a -llibc.a 
+<Linking>
+remark #10372-D: (ULP 4.1) Detected uninitialized Port A in this project. Recommend initializing all unused ports to eliminate wasted current consumption on unused pins.
+remark #10372-D: (ULP 4.1) Detected uninitialized Port B in this project. Recommend initializing all unused ports to eliminate wasted current consumption on unused pins.
+remark #10372-D: (ULP 4.1) Detected uninitialized Port C in this project. Recommend initializing all unused ports to eliminate wasted current consumption on unused pins.
+remark #10372-D: (ULP 4.1) Detected uninitialized Port D in this project. Recommend initializing all unused ports to eliminate wasted current consumption on unused pins.
+Finished building target: "Capacitive Touch - Single Button.out"
+ 
+Building files: "Capacitive Touch - Single Button.out"
+Invoking: MSP430 Hex Utility
+"C:/ti/ccs920/ccs/tools/compiler/ti-cgt-msp430_19.6.0.STS/bin/hex430" --memwidth=8 --romwidth=8 --intel -o "Capacitive Touch - Single Button.hex"  "Capacitive Touch - Single Button.out" 
+Translating to Intel format...
+   "Capacitive Touch - Single Button.out" .text:_isr ==> .text:_isr
+   "Capacitive Touch - Single Button.out" .const ==> .const
+   "Capacitive Touch - Single Button.out" .cinit ==> .cinit
+   "Capacitive Touch - Single Button.out" RTC ==> RTC
+   "Capacitive Touch - Single Button.out" PORT2 ==> PORT2
+   "Capacitive Touch - Single Button.out" TIMER2_A1 ==> TIMER2_A1
+   "Capacitive Touch - Single Button.out" TIMER2_A0 ==> TIMER2_A0
+   "Capacitive Touch - Single Button.out" USCI_B1 ==> USCI_B1
+   "Capacitive Touch - Single Button.out" USCI_A1 ==> USCI_A1
+   "Capacitive Touch - Single Button.out" PORT1 ==> PORT1
+   "Capacitive Touch - Single Button.out" TIMER1_A1 ==> TIMER1_A1
+   "Capacitive Touch - Single Button.out" TIMER1_A0 ==> TIMER1_A0
+   "Capacitive Touch - Single Button.out" DMA ==> DMA
+   "Capacitive Touch - Single Button.out" USB_UBM ==> USB_UBM
+   "Capacitive Touch - Single Button.out" TIMER0_A1 ==> TIMER0_A1
+   "Capacitive Touch - Single Button.out" TIMER0_A0 ==> TIMER0_A0
+   "Capacitive Touch - Single Button.out" ADC12 ==> ADC12
+   "Capacitive Touch - Single Button.out" USCI_B0 ==> USCI_B0
+   "Capacitive Touch - Single Button.out" USCI_A0 ==> USCI_A0
+   "Capacitive Touch - Single Button.out" WDT ==> WDT
+   "Capacitive Touch - Single Button.out" TIMER0_B1 ==> TIMER0_B1
+   "Capacitive Touch - Single Button.out" TIMER0_B0 ==> TIMER0_B0
+   "Capacitive Touch - Single Button.out" COMP_B ==> COMP_B
+   "Capacitive Touch - Single Button.out" UNMI ==> UNMI
+   "Capacitive Touch - Single Button.out" SYSNMI ==> SYSNMI
+   "Capacitive Touch - Single Button.out" .reset ==> .reset
+   "Capacitive Touch - Single Button.out" .text ==> .text
+Finished building: "Capacitive Touch - Single Button.out"
+ 
+
+**** Build Finished ****
